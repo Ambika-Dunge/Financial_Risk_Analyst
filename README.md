@@ -33,5 +33,8 @@ The dataset `data/loan_data.csv` contains synthetic but realistic banking data w
 3. Run all cells to view the analysis.
 
 ---
+<img width="1159" height="613" alt="Screenshot 2026-01-16 012730" src="https://github.com/user-attachments/assets/99894ce6-9b9a-4be4-b355-8bd9b4c59338" />
+
 <img width="1920" height="1080" alt="Screenshot 2026-01-16 012158" src="https://github.com/user-attachments/assets/c84d626a-5578-4e3f-b900-fdd797fa2696" />
+<img width="1158" height="843" alt="Screenshot 2026-01-16 012745" src="https://github.com/user-attachments/assets/3d72726f-5edb-494a-ab3c-3269973dae7c" />
 
