@@ -33,4 +33,4 @@ The dataset `data/loan_data.csv` contains synthetic but realistic banking data w
 3. Run all cells to view the analysis.
 
 ---
-*Created for Deloitte New Level Analyst (NLA) Role Assessment*
+
